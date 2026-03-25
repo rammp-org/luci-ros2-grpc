@@ -16,7 +16,7 @@
   <depend>nav_msgs</depend>
   <depend>tf2_ros</depend>
   <depend>luci_messages</depend>
-  <depend>protobuf</depend>
+  <depend>protobuf-dev</depend>
 
   <export>
     <build_type>ament_cmake</build_type>
